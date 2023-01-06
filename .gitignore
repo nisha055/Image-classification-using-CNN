@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#folders
+seg_pred
+seg_test
+seg_train
+
+.DS_Store
